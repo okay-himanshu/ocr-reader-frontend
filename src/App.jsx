@@ -48,8 +48,6 @@ function App() {
     }
   };
 
-console.log(56)
-
   return (
     <div>
       <h1 className="text-4xl font-serif font-bold bg-black text-white py-4 text-center">
